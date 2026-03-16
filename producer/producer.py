@@ -1,6 +1,6 @@
 import os
 import json
-import websockets
+import websocket
 from kafka import KafkaProducer
 from dotenv import load_dotenv
 
