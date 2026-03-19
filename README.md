@@ -66,10 +66,7 @@ OHLCV modelling per symbol. Limited data due to rate limiting on the free API pl
 
 ---
 
-### Project Structured 
-
-```
-```
+### Project Structure
 ```
 Financial-Realtime-Streaming-ETL-pipeline-with-AWS/
 ├── producer/
